@@ -47,8 +47,20 @@ cd todofront-web/todo-web
 # 3. Instala las dependencias
 npm install
 
-# 4. Agrega el .env en la raíz del proyecto
+# 4. Agrega el .env en la raíz del proyecto con las siguientes variables
+#    (los valores reales se encuentran en la entrega de Canvas)
+
+# URL del backend REST
 VITE_API_URL=https://todoback-xkpn.onrender.com
+
+# Firebase Authentication
+VITE_FIREBASE_API_KEY=your_firebase_api_key
+VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=your_project_id
+VITE_FIREBASE_STORAGE_BUCKET=your_project.firebasestorage.app
+VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+VITE_FIREBASE_APP_ID=your_app_id
+VITE_FIREBASE_MEASUREMENT_ID=your_measurement_id
 ```
 
 ## Cómo ejecutar el proyecto
