@@ -39,7 +39,7 @@ Permite:
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/FeryRi/Todo-app.git
+git clone https://github.com/FeryRi/Todo-web.git
 
 # 2. Entra a la carpeta del proyecto web
 cd todofront-web/todo-web
