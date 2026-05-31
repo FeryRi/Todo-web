@@ -14,17 +14,17 @@ Permite:
 
 ## Tecnologías utilizadas
 
-| Categoría     | Tecnología                          |
-| ------------- | ----------------------------------- |
-| Framework     | React 19 + Vite 8                   |
-| Routing       | React Router DOM v7                 |
-| Lenguaje      | TypeScript                          |
-| HTTP Client   | Axios                               |
-| Autenticación | Firebase Authentication             |
-| UI Components | MUI (Material UI) + Emotion         |
-| Íconos        | react-icons                         |
+| Categoría     | Tecnología                           |
+| ------------- | ------------------------------------ |
+| Framework     | React 19 + Vite 8                    |
+| Routing       | React Router DOM v7                  |
+| Lenguaje      | TypeScript                           |
+| HTTP Client   | Axios                                |
+| Autenticación | Firebase Authentication              |
+| UI Components | MUI (Material UI) + Emotion          |
+| Íconos        | react-icons                          |
 | Backend       | Quarkus (Java) — deployado en Render |
-| Database      | PostgreSQL — deployado en Supabase  |
+| Database      | PostgreSQL — deployado en Supabase   |
 
 ---
 
@@ -70,9 +70,10 @@ npm run preview
 
 ## Links deployados
 
-| Servicio                       | URL                                |
-| ------------------------------ | ---------------------------------- |
-| Backend API (Quarkus / Render) | https://todoback-xkpn.onrender.com |
+| Servicio                                                                            | URL                                                           |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Backend API (Quarkus / Render)                                                      | https://todoback-xkpn.onrender.com                            |
+| Deployment (Vercel - requiere inicio de sesión en vercel por Deployment Protection) | https://todo-g34g419cl-fernanda-ris-projects.vercel.app/login |
 
 ### Endpoints principales del backend
 
